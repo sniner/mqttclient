@@ -7,6 +7,7 @@ setup(
     author = 'Stefan Schönberger',
     author_email = 'me@s5s9r.de',
     description = 'Simple MQTT sub/pub client',
+    long_description = open('README.md').read(),
 
     # Packages
     package_dir = {'': 'src'},
